@@ -16,7 +16,7 @@ cout << "Nama Mahasisw:";
 cin >> mhs.nama;
 cout << "Alamat Asal:";
 cin >> mhs.alamat;
-cout << "Umur Mahasiswa:";
+cout << "Umur Mahasisw:";
 cin >> mhs.umur;
 cout << endl;
 //manampilkan isi objek
