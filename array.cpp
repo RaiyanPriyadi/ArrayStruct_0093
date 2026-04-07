@@ -8,7 +8,7 @@ int main(){
     int datamu[5];
     int x;
     //cara membaca array dataku 
-    cout << "Data ke -3 : " << data[2]*2 <<endl;
+    cout << "Data ke -3 : " << dataku[2]*2 <<endl;
 
     //oprasi Matematika me 
     x = dataku[2]*3;
