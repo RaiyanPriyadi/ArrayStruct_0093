@@ -8,7 +8,7 @@ struct alamatDetail
     string kota;
 };
 
-struct mahasiswa
+struct mahasisw
 {
     string nama;
     alamatDetail alamat;
