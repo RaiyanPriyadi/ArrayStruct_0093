@@ -12,7 +12,7 @@ int main()
     //deklarasi obyek dari struct orang 
     orang mhs;
     //isi objek
-cout << "Nama Mahasiswa:";
+cout << "Nama Mahasisw:";
 cin >> mhs.nama;
 cout << "Alamat Asal:";
 cin >> mhs.alamat;
